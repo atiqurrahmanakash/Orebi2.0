@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "title": "Table Clock",
+      "image": "../../../public/products/tableclock.png",
+      "price": 40,
+      "tag": "10",
+      "color": "black",
+      "best": true,
+      "special": false
+    },
+    {
+      "id": 2,
+      "title": "Water Bottle",
+      "image": "../../../public/products/bottle.png",
+      "price": 20,
+      "tag": "10",
+      "color": "black",
+      "best": true,
+      "special": false
+    },
+    {
+      "id": 3,
+      "title": "Office Bag",
+      "image": "../../../public/products/bag.png",
+      "price": 30,
+      "tag": "10",
+      "color": "black",
+      "best": true,
+      "special": false
+    },
+    {
+      "id": 4,
+      "title": "Vegetable Box",
+      "image": "../../../public/products/box.png",
+      "price": 38,
+      "tag": "",
+      "color": "black",
+      "best": true,
+      "special": false
+    },
+    {
+      "id": 5,
+      "title": "Vegetable Box2",
+      "image": "../../../public/products/box.png",
+      "price": 38,
+      "tag": "",
+      "color": "black",
+      "best": true,
+      "special": true
+    }
+  ]

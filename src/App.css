@@ -1,0 +1,22 @@
+.main_product{
+    position: relative;
+}
+.main_product .slick-slider .slick-prev{
+    display: none !important;
+}
+.main_product .slick-slider .slick-next{
+    cursor: pointer;
+    height: 64px;
+    width: 64px;
+    color: white;
+    border-radius:50%;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.22) !important;
+    font-size: 5px !important;
+}
+.slick-slider img.my{
+    display: inline-block;
+}
