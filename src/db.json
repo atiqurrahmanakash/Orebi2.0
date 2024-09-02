@@ -7,7 +7,7 @@
       "tag": "10",
       "color": "black",
       "best": true,
-      "special": false
+      "special": true
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "tag": "10",
       "color": "black",
       "best": true,
-      "special": false
+      "special": true
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "tag": "10",
       "color": "black",
       "best": true,
-      "special": false
+      "special": true
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "tag": "",
       "color": "black",
       "best": true,
-      "special": false
+      "special": true
     },
     {
       "id": 5,
