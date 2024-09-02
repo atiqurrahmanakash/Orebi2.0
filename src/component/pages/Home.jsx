@@ -58,17 +58,21 @@ const Home = () => {
       status:true,
     },
   ]
-  Db.reverse();
-  Db.reverse();
-
+  
   useEffect(
     () => {
+      Db.reverse();
       let bs = Db.filter((b) => (b.best == true));
       let sp = Db.filter((s) => (s.special == true))
       // console.log(bs)
       setBestseller(bs)
       setSpecials(sp)
     }, [Db]);
+
+  useEffect(
+    () => {
+      Db.reverse();
+    },[]);
 
 
   const settings = {
