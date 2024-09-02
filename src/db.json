@@ -12,7 +12,7 @@
     {
       "id": 2,
       "title": "Water Bottle Akash",
-      "image": "./products/bottle.png",
+      "image": "products/bottle.png",
       "price": 20,
       "tag": "10",
       "color": "black",
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "title": "Office Bag",
-      "image": "../../../public/products/bag.png",
+      "image": "products/bag.png",
       "price": 30,
       "tag": "10",
       "color": "black",
@@ -32,7 +32,7 @@
     {
       "id": 4,
       "title": "Vegetable Box",
-      "image": "../../../public/products/box.png",
+      "image": "products/box.png",
       "price": 38,
       "tag": "",
       "color": "black",
@@ -42,7 +42,7 @@
     {
       "id": 5,
       "title": "Vegetable Box2",
-      "image": "../../../public/products/box.png",
+      "image": "products/box.png",
       "price": 38,
       "tag": "",
       "color": "black",
