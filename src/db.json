@@ -1,8 +1,8 @@
 [
     {
       "id": "1",
-      "title": "Table Clock",
-      "image": "../../../public/products/tableclock.png",
+      "title": "Table Clock Akash",
+      "image": "products/tableclock.png",
       "price": 40,
       "tag": "10",
       "color": "black",
@@ -11,8 +11,8 @@
     },
     {
       "id": 2,
-      "title": "Water Bottle",
-      "image": "../../../public/products/bottle.png",
+      "title": "Water Bottle Akash",
+      "image": "./products/bottle.png",
       "price": 20,
       "tag": "10",
       "color": "black",
