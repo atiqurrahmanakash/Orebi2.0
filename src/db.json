@@ -161,7 +161,7 @@
       "tag": "",
       "color": "black",
       "del":100,
-      "best": false,
+      "best": true,
       "special": true
     }
   ]
